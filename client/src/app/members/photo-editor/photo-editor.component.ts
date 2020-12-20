@@ -52,7 +52,7 @@ setMainPhoto(photo: Photo){
 
   initializeUploader() {
     this.uploader = new FileUploader({
-      url: this.baseUrl + 'user/add-photo',
+      url: this.baseUrl + 'users/add-photo',
       authToken: 'Bearer ' + this.user.token,
       isHTML5: true,
       allowedFileType: ['image'],
@@ -67,8 +67,14 @@ setMainPhoto(photo: Photo){
 
     this.uploader.onSuccessItem = (item, response, status, headers) => {
       if(response){
-        const photo = JSON.parse(response);
+        const photo: Photo = JSON.parse(response);
         this.member.photos.push(photo);
+        if(photo.isMain)
+        {
+          this.user.photoUrl = photo.url;
+          this.member.photoUrl = photo.url;
+          this.accountService.setCurrentUser(this.user);
+        }
       }
     }
   }
