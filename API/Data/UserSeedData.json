@@ -96,7 +96,7 @@
     },
     {
         "Username": "Lester",
-        "Gender": "female",
+        "Gender": "male",
         "DateOfBirth": "1977-08-21",
         "KnownAs": "Lester",
         "Created": "2019-06-27",
@@ -115,7 +115,7 @@
     },
     {
         "Username": "Savage",
-        "Gender": "female",
+        "Gender": "male",
         "DateOfBirth": "1951-09-02",
         "KnownAs": "Savage",
         "Created": "2019-10-24",
@@ -134,7 +134,7 @@
     },
     {
         "Username": "Booth",
-        "Gender": "female",
+        "Gender": "male",
         "DateOfBirth": "1969-11-09",
         "KnownAs": "Booth",
         "Created": "2020-01-20",
@@ -153,7 +153,7 @@
     },
     {
         "Username": "Ramos",
-        "Gender": "female",
+        "Gender": "male",
         "DateOfBirth": "1968-12-30",
         "KnownAs": "Ramos",
         "Created": "2020-01-22",
@@ -172,7 +172,7 @@
     },
     {
         "Username": "Spence",
-        "Gender": "female",
+        "Gender": "male",
         "DateOfBirth": "1995-04-15",
         "KnownAs": "Spence",
         "Created": "2019-01-16",
