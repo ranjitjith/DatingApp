@@ -1,6 +1,6 @@
 [
     {
-        "Username": "Lillie",
+        "UserName": "Lillie",
         "Gender": "female",
         "DateOfBirth": "1962-11-15",
         "KnownAs": "Lillie",
@@ -19,7 +19,7 @@
         ]
     },
     {
-        "Username": "Bobbi",
+        "UserName": "Bobbi",
         "Gender": "female",
         "DateOfBirth": "1969-07-13",
         "KnownAs": "Bobbi",
@@ -38,7 +38,7 @@
         ]
     },
     {
-        "Username": "Kara",
+        "UserName": "Kara",
         "Gender": "female",
         "DateOfBirth": "1954-11-25",
         "KnownAs": "Kara",
@@ -57,7 +57,7 @@
         ]
     },
     {
-        "Username": "Ana",
+        "UserName": "Ana",
         "Gender": "female",
         "DateOfBirth": "1965-11-06",
         "KnownAs": "Ana",
@@ -76,7 +76,7 @@
         ]
     },
     {
-        "Username": "Sofia",
+        "UserName": "Sofia",
         "Gender": "female",
         "DateOfBirth": "1958-09-05",
         "KnownAs": "Sofia",
@@ -95,7 +95,7 @@
         ]
     },
     {
-        "Username": "Lester",
+        "UserName": "Lester",
         "Gender": "male",
         "DateOfBirth": "1977-08-21",
         "KnownAs": "Lester",
@@ -114,7 +114,7 @@
         ]
     },
     {
-        "Username": "Savage",
+        "UserName": "Savage",
         "Gender": "male",
         "DateOfBirth": "1951-09-02",
         "KnownAs": "Savage",
@@ -133,7 +133,7 @@
         ]
     },
     {
-        "Username": "Booth",
+        "UserName": "Booth",
         "Gender": "male",
         "DateOfBirth": "1969-11-09",
         "KnownAs": "Booth",
@@ -152,7 +152,7 @@
         ]
     },
     {
-        "Username": "Ramos",
+        "UserName": "Ramos",
         "Gender": "male",
         "DateOfBirth": "1968-12-30",
         "KnownAs": "Ramos",
@@ -171,7 +171,7 @@
         ]
     },
     {
-        "Username": "Spence",
+        "UserName": "Spence",
         "Gender": "male",
         "DateOfBirth": "1995-04-15",
         "KnownAs": "Spence",
